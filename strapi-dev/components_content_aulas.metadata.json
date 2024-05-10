@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"squads_lesson_slug":{"$numberInt":"1"}},"name":"squads_lesson_slug_1","background":true,"unique":true}],"uuid":"62f9b4a8b6984bb597917475802cdbd5","collectionName":"components_content_aulas","type":"collection"}
