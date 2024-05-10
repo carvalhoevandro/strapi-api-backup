@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"title":{"$numberInt":"1"}},"name":"title_1","background":true,"unique":true},{"v":{"$numberInt":"2"},"key":{"chat_url":{"$numberInt":"1"}},"name":"chat_url_1","background":true}],"uuid":"5a8e0ab2a0c04b18a909b34a1df439b2","collectionName":"lives","type":"collection"}
